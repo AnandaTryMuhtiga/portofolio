@@ -41,8 +41,8 @@ c. Menghubungkan File CSS ke HTML
 
 Agar desain dari style.css muncul di web, tambahkan kode berikut di dalam tag <head> di file index.html:
 <link rel="stylesheet" href="style.css">
-
-```Contoh lengkap index.html:
+```Cth
+Contoh lengkap index.html:
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -55,11 +55,11 @@ Agar desain dari style.css muncul di web, tambahkan kode berikut di dalam tag <h
   <h1>Halo Dunia!</h1>
   <p>Selamat datang di website pertamaku di GitHub Pages 🎉</p>
 </body>
-</html>```
+</html>
 
 Contoh style.css:
 
-```body {
+body {
   font-family: Arial, sans-serif;
   background-color: #f3f3f3;
   text-align: center;
@@ -68,4 +68,4 @@ Contoh style.css:
 
 h1 {
   color: #0078ff;
-}```
+}
