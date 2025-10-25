@@ -42,9 +42,8 @@ c. Menghubungkan File CSS ke HTML
 Agar desain dari style.css muncul di web, tambahkan kode berikut di dalam tag <head> di file index.html:
 <link rel="stylesheet" href="style.css">
 
-Contoh lengkap index.html:
-
-```<!DOCTYPE html>
+```Contoh lengkap index.html:
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
