@@ -44,7 +44,7 @@ Agar desain dari style.css muncul di web, tambahkan kode berikut di dalam tag <h
 
 Contoh lengkap index.html:
 
-<!DOCTYPE html>
+##<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -56,7 +56,7 @@ Contoh lengkap index.html:
   <h1>Halo Dunia!</h1>
   <p>Selamat datang di website pertamaku di GitHub Pages 🎉</p>
 </body>
-</html>
+</html>##
 
 Contoh style.css:
 
